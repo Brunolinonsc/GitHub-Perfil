@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.destaque{
+    background-color: brown;
+    color: #fff;
+}
